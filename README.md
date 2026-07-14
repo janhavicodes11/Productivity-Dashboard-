@@ -220,12 +220,6 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## 👨‍💻 Author
-
-**Kashish Kumari**
-
-GitHub: https://github.com/kashish-56
-
 ---
 
 ⭐ If you like this project, don't forget to **star the repository!**
